@@ -1,0 +1,6 @@
+c:\users\katsaros\documents\visual studio 2013\Projects\CognitiveServicesTest\CognitiveServicesTest\bin\Debug\CognitiveServicesTest.exe.config
+c:\users\katsaros\documents\visual studio 2013\Projects\CognitiveServicesTest\CognitiveServicesTest\bin\Debug\CognitiveServicesTest.exe
+c:\users\katsaros\documents\visual studio 2013\Projects\CognitiveServicesTest\CognitiveServicesTest\bin\Debug\CognitiveServicesTest.pdb
+c:\users\katsaros\documents\visual studio 2013\Projects\CognitiveServicesTest\CognitiveServicesTest\obj\Debug\CognitiveServicesTest.exe
+c:\users\katsaros\documents\visual studio 2013\Projects\CognitiveServicesTest\CognitiveServicesTest\obj\Debug\CognitiveServicesTest.pdb
+C:\Users\katsaros\documents\visual studio 2013\Projects\CognitiveServicesTest\CognitiveServicesTest\obj\Debug\CognitiveServicesTest.csprojResolveAssemblyReference.cache
